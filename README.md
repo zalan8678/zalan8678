@@ -1,9 +1,9 @@
 ## Hi! I'm Alan, nice to meet you!
-I'm currently a second year computer science undergrad student.
+I'm currently a third year computer science undergrad student.
 Feel free to send me a message! 
 
 - Pronouns: he/him
-- Currently Learning: C++, React, Algorithms
+- Currently Learning: React
 
 <!--
 **zalan8678/zalan8678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
